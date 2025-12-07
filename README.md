@@ -3,7 +3,7 @@
 Este projeto é um protótipo de alta fidelidade de um Sistema de Gestão Hospitalar e de Serviços de Saúde, desenvolvido com foco em Front-end para Atividade Prática de Projeto Multidisciplinar Uninter. O sistema simula a administração de clínicas, hospitais e serviços de Home Care.
 
 ## 🔗 Acesse o Projeto Online
-[Clique aqui para visualizar o sistema funcionando](SEU_LINK_DO_GITHUB_PAGES_AQUI)
+[Clique aqui para visualizar o sistema funcionando]([SEU_LINK_DO_GITHUB_PAGES_AQUI](https://arkygerom.github.io/vidaplus-sistema-hospitalar/))
 
 ## 🛠 Tecnologias Utilizadas
 * **HTML5** (Estrutura semântica e Modais)
